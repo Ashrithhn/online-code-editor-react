@@ -17,7 +17,7 @@ A powerful, browser-based code editor for HTML, CSS, and JavaScript that enables
 - **🎯 Beginner Friendly** - Clean, intuitive interface designed for learning
 - **🌐 Browser-Based** - No installation required, code directly in your browser
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack used
 
 - **Frontend Framework:** React.js
 - **Styling:** CSS3 with responsive design
